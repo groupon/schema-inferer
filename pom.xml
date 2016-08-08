@@ -4,7 +4,7 @@
 
     <groupId>com.groupon.dse</groupId>
     <artifactId>schema-inferer</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>
@@ -39,7 +39,7 @@
         <connection>scm:git:git@github.com:groupon/schema-inferer.git</connection>
         <developerConnection>scm:git:git@github.com:groupon/schema-inferer.git</developerConnection>
         <url>https://github.com/groupon/schema-inferer</url>
-        <tag>schema-inferer-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
